@@ -10,7 +10,7 @@ the following steps:
 Sr. 
 No
 1
--             Preprocess the text (i.e., the steps required prior to converting the sentence into a vector) using any library of your choice.
+- Preprocess the text (i.e., the steps required prior to converting the sentence into a vector) using any library of your choice.
 
 2
 - Given any sentence, perform vector semantics i.e., convert the given dataset into vectors using Bag of Words approach.
@@ -25,6 +25,4 @@ No
 
 
 5
-
-Bonus: Mention the insights that you can derive from the movie reviews. 
-(you are free to use any techniques)
+- Bonus: Mention the insights that you can derive from the movie reviews. (you are free to use any techniques)
