@@ -2,10 +2,7 @@
 
 
 # Natural Language Processing (NLP) 
-The first and the most important step for any NLP related task is data preprocessing. For this
-question, we will try to implement a simple sentiment analysis movie review model. We will be
-using the first 10,000 reviews from imdb dataset for this task. Download the dataset from kaggle and perform 
-the following steps:
+## The first and the most important step for any NLP related task is data preprocessing. For this question, we will try to implement a simple sentiment analysis movie review model. We will be using the first 10,000 reviews from imdb dataset for this task. Download the dataset from kaggle and perform the following steps:
 
 
 ### [1]
